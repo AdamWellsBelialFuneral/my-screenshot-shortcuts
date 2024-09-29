@@ -15,8 +15,8 @@ Install required packages:
 ```bash
 sudo apt install xfce4-screenshooter scrot xclip
 ```
-Make sure they are executable. 
-For that you can run the following commands:
+Make sure they are executable
+You can run the following commands:
 ```bash
 chmod +x crop_screenshot.sh
 chmod +x full_screenshot.sh
@@ -40,8 +40,6 @@ You can use **nano:**
 ```bash
 sudo nano ~/.xbindkeysrc
 ```
-Press **Ctrl + S** then **Ctrl + X** *to save and exit*
-
 Add the following lines to bind the scripts to specific keys (you can adjust the key bindings):
 ```bash
 # Full Screenshot (Print Screen)
