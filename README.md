@@ -7,7 +7,7 @@ These are two simple scripts I use for taking screenshots:
 
 Both scripts perform two actions:
 
-* Save the screenshot to `Pictures` folder and **clipboard**
+* Save the screenshot to `Pictures/Screenshots` folder and **clipboard**
 
 ## Usage
 
