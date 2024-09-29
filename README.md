@@ -16,6 +16,7 @@ Install required packages:
 sudo apt install xfce4-screenshooter scrot xclip
 ```
 Make sure they are executable
+
 You can run the following commands:
 ```bash
 chmod +x crop_screenshot.sh
