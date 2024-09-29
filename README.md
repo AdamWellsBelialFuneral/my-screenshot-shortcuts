@@ -1,7 +1,7 @@
 # My Screenshot Scripts
 
-The are scripts i use to:
+These are scripts i use to:
 * Take full screenshot
 * Crop screenshot
 
-Both are saved on home Pictures folder and also clipboard
+Both save to home Pictures folder and also clipboard
